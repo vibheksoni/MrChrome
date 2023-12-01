@@ -3,7 +3,6 @@ Mr. Chrome is a versatile Python-based browser replacement that enables advanced
 
 Here's a well-structured Markdown file for your GitHub repository based on the provided code. This README.md file includes sections on how to install, how to run, frequently asked questions (FAQ), and examples.
 
-```markdown
 # Mr. Chrome
 
 ![Chrome Bot in Action](Capture.PNG)
@@ -65,6 +64,4 @@ A: This is a manual process goto the function handler_thread and look at the cur
 
 A: Yes, this script is compatible with Windows, Linux, and macOS only for graphical capabilities.
 
-```
 Feel free to customize and extend the script for your own automation tasks. If you have any questions or need further assistance, please refer to the FAQ section or create an issue in this repository.
-```
