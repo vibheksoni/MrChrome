@@ -40,7 +40,7 @@ Run the script using Python:
 python chrome_bot.py
 ```
 
-The script will start a socket server and a Chrome browser instance. It will listen for incoming connections and send data to your Telegram chat.
+The script will start a Chrome browser instance. It will listen for interactions happening on the chrome browser and send data to your Telegram chat.
 
 ## FAQ
 
