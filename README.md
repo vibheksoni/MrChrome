@@ -1,8 +1,6 @@
 # MrChrome
 Mr. Chrome is a versatile Python-based browser replacement that enables advanced web activity tracking, input field monitoring, and real-time Telegram notifications, making it ideal for web scraping, testing, and remote monitoring
 
-Here's a well-structured Markdown file for your GitHub repository based on the provided code. This README.md file includes sections on how to install, how to run, frequently asked questions (FAQ), and examples.
-
 ![Chrome Bot in Action](Capture.PNG)
 
 This is a Python script that interacts with the Chrome browser using Selenium and sends data to a Telegram chat. It can be used for various web automation tasks. Below, you'll find instructions on how to install, run, and configure this script.
